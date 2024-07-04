@@ -1,0 +1,1 @@
+SUBSYSTEM==”usb”, ENV{UDISKS_AUTO}=”0”
