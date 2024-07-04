@@ -1,0 +1,12 @@
+user_with_bad_shell : systemd-timesync expect /bin/false or /usr/sbin/nologin but got
+user_with_bad_password : systemd-timesync expect have a line in /etc/shadow : sudo passwd systemd-timesync
+user_with_bad_shell : systemd-resolve expect /bin/false or /usr/sbin/nologin but got
+user_with_bad_password : systemd-resolve expect have a line in /etc/shadow : sudo passwd systemd-resolve
+user_with_bad_shell : systemd-bus-proxy expect /bin/false or /usr/sbin/nologin but got
+user_with_bad_password : systemd-bus-proxy expect have a line in /etc/shadow : sudo passwd systemd-bus-proxy
+user_with_bad_shell : ve expect /bin/bash but got
+user_with_bad_password : vboxadd does not have a password : sudo passwd vboxadd
+user_with_bad_password : vboxadd pass_min_day is less than 14 : sudo chage -m 14 vboxadd
+user_with_bad_password : vboxadd pass_max_day is greater than 90 : sudo chage -M 90 vboxadd
+user_with_bad_password : vboxadd pass_warn_age is greater than 7 : sudo chage -W 7 vboxadd
+user_with_bad_password : vboxadd inactive is greater than 30 : sudo chage -I 30 vboxadd

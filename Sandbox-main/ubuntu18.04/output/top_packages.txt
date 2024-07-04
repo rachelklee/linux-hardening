@@ -1,0 +1,39 @@
+aisleriot : GNOME solitaire card game collection
+apache2 : Apache HTTP Server
+bleachbit : delete unnecessary files from the system
+cheese : tool to take pictures and videos from your webcam
+darkstat : network traffic analyzer
+dnsmasq-base : Small caching DNS proxy and DHCP/TFTP server
+dns-root-data : DNS root data including root zone and DNSSEC key
+emacs : GNU Emacs editor (metapackage)
+emacs25-el : GNU Emacs LISP (.el) files
+fonts-tibetan-machine : font for Tibetan, Dzongkha and Ladakhi (OpenType Unicode)
+gcc : GNU C compiler
+gdb : GNU Debugger
+gdbserver : GNU Debugger (remote server)
+gnome-mahjongg : classic Eastern tile game for GNOME
+gnome-mines : popular minesweeper puzzle game for GNOME
+gnome-online-accounts : service to manage online accounts for the GNOME desktop
+gnome-software-plugin-snap : Snap support for GNOME Software
+gnome-sudoku : Sudoku puzzle game for GNOME
+gnome-themes-extra : Adwaita GTK+ 2 theme — engine
+libegl1-mesa : transitional dummy package
+make : utility for directing compilation
+openbsd-inetd : OpenBSD Internet Superserver
+pure-ftpd-common : Pure-FTPd FTP server (Common Files)
+remmina-plugin-rdp : RDP plugin for Remmina
+remmina-plugin-secret : Secret plugin for Remmina
+remmina-plugin-vnc : VNC plugin for Remmina
+rhythmbox-plugin-alternative-toolbar : Enhanced play controls and interface for Rhythmbox
+rhythmbox-plugins : plugins for rhythmbox music player
+shotwell : digital photo organizer
+system-config-printer : graphical interface to configure the printing system
+tcpdump : command-line network traffic analyzer
+telnet : basic telnet client
+traceroute : Traces the route taken by packets over an IPv4/IPv6 network
+transmission-gtk : lightweight BitTorrent client (GTK+ interface)
+ubuntu-minimal : Minimal core of Ubuntu
+vim-gnome : Vi IMproved - enhanced vi editor (dummy package)
+vino : VNC server for GNOME
+vsftpd : lightweight, efficient FTP server written for security
+netcat-openbsd : TCP/IP swiss army knife
